@@ -1,0 +1,13 @@
+
+.loginhead{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 40px;
+    text-align: center;
+
+}
+
+nav ul li a{
+    
+    padding: 0 15px;
+}

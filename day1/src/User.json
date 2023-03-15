@@ -1,0 +1,25 @@
+{
+"data":[
+    {
+        "Username":"Mayank",
+        "Password":"Admin",
+        "Phone":"9421032532",
+        "Confirmpassword":"Admin"
+        
+    },
+    {
+        "Username":"Manthan",
+        "Phone":"942103253",
+        "Password":"Admi",
+        "Confirmpassword":"Admi"
+        
+    },
+    {
+        "Username":"Mohan",
+        "Phone":"94210325",
+        "Password":"Adm",
+        "Confirmpassword":"Adm"
+        
+    }
+    ]
+}

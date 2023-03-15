@@ -1,0 +1,59 @@
+.btn1{
+    color: black;
+    
+}
+
+.btn2{
+    color: black;
+     
+}
+
+.btn1:hover{
+    background-color:violet;
+    color: brown;
+}
+.btn2:hover{
+    background-color:violet;
+    color: brown;
+}
+
+.abouthead{
+    color: blue;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+h3{
+    color: brown;
+    margin-top: 10px;
+}
+h1{
+    color:violet;
+    margin-top: 10px;
+}
+
+.logout{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.style{
+    display: inline-block;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color:antiquewhite;
+  }
+
+  
+.Meals{
+    display: inline-block;
+  }
+  .size{
+    width:20%;
+    height:10%;
+  }
